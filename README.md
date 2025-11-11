@@ -5,6 +5,7 @@ Read the substack article [here](https://georgesantellano.substack.com/p/trouble
 The objective of this project was originally to understand a data set which I thought was interesting. With politics all over a news, I wondered if I could use this data to predict the polical party of a respondent to this survey using their responses to a variaty of opinion/demographic questions. Along the way, we unnearted a few intersting insights from the mind of Americans. 
 
 Each feature name has a description [here](https://github.com/gesantel/2025_NPORS/blob/main/NPORS_2025_codebook_FINAL.xlsx).
+
 [This](https://github.com/gesantel/2025_NPORS/blob/main/2025%20NPORS.ipynb) is the Jupyter notebook for the analysis. 
 
 Tools used: Scikit-learn, matplotlib, seaborn, pandas, numpy. 
