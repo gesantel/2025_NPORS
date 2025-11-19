@@ -2,7 +2,7 @@
 
 Read the substack article [here](https://georgesantellano.substack.com/p/trouble-brewing-in-the-2026-midterms).
 
-The objective of this project was originally to understand a data set which I thought was interesting. With politics all over a news, I wondered if I could use this data to predict the polical party of a respondent to this survey using their responses to a variaty of opinion/demographic questions. Along the way, we unnearted a few intersting insights from the mind of Americans. 
+The objective of this project was originally to understand a data set which I thought was interesting. With politics all over a news, I wondered if I could use this data to predict the polical party of a respondent to this survey using their responses to a variety of opinion/demographic questions. Along the way, we unnearted a few intersting insights from the mind of Americans. 
 
 Each feature name has a description [here](https://github.com/gesantel/2025_NPORS/blob/main/NPORS_2025_codebook_FINAL.xlsx).
 
